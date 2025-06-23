@@ -1,1 +1,1 @@
-Archivo de prueba para conflicto 
+Hola mundo, otra vez
